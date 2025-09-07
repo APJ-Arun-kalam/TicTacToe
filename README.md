@@ -6,7 +6,7 @@ At the default **IMPOSSIBLE** difficulty, it will never lose — at best, you ca
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 - The game is a **3x3 Tic Tac Toe** board.
 - You play as **X** and the computer plays as **O**.
